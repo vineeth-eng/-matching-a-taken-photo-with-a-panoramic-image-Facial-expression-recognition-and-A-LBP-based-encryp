@@ -1,0 +1,2 @@
+# -matching-a-taken-photo-with-a-panoramic-image-Facial-expression-recognition-and-A-LBP-based-encryp
+Skyline-based estimation of the dominant smartphone direction by matching a taken photo with a panoramic image, A LBP-based approach for facial expression recognition,  A LBP-based encrypting of video sequences for insurance companies towards ensuring integrity of collected vehicular accident scenes
